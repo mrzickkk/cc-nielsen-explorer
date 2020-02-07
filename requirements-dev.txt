@@ -1,0 +1,5 @@
+azure-common==1.1.16
+azure-storage==0.36.0
+azure-storage-logging==0.5.1
+azure-mgmt-datafactory==0.7.0
+azure-mgmt-resource==2.1.0
